@@ -16,9 +16,6 @@ import { MessageComponent } from './message/message.component';
     MessageComponent
   ],
   imports: [
-    BrowserModule
-  ],
-  imports: [
 	  BrowserModule,
 	  FormsModule
   ],
